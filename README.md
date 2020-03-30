@@ -8,3 +8,6 @@
 
 # Challenge
 ## In addition we added on additional filters to the table to filter for City, State, Country, and Shape of the UFO.
+
+# Recommendations
+## In addition to the interactive table, it would also be advisable to include an interactive map possibly using matplotlib so that Dana's viewers can have a visual component when looking through her webpage. 
